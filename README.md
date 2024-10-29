@@ -12,6 +12,6 @@ I'm an undergraduate student pursuing Bachelor of Technology in Computer Science
 
 - 🔗 Connect with me on:
    
-   [![LinkedIn](icons8-linkedin.svg)](https://www.linkedin.com/in/ashwani-yadav-10696b256/)
+   [![LinkedIn](https://th.bing.com/th/id/OIP.Ojdd1gmRd40jQLlHbcnVhgHaHa?w=612&h=612&rs=1&pid=ImgDetMain)](https://www.linkedin.com/in/ashwani-yadav-10696b256/)
   
 - ⚡ I contributed during online contests at codechef and leetcode  !!
